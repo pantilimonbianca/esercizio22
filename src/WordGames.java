@@ -5,8 +5,8 @@ public class WordGames {
 
     /**
      * This method print "Hello" with a word
-     * @param word the name for concat hello
-     * @return a string with a hello + name
+     * @param word the word for the concat hello
+     * @return a string with a hello + word
      */
     public String addHelloWord(String word){
         return "Hello " + word;
